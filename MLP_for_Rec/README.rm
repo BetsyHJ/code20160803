@@ -1,0 +1,5 @@
+Recommend Items to user, Top-K rank
+==========
+mlp_output.py is the training file. weibo_feature -> cluster (getting from cluto)
+test_mlp.py can get the rate of error in finding a right cluster.
+test_mlp_recItem.py can get the result in recommending items to user.
